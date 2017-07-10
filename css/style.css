@@ -1,0 +1,6 @@
+.TEST{
+	width: 1000px;
+	height: 300px;
+	background: url("../image/TEST.png") no-repeat center center;
+    background-size: cover;
+}
